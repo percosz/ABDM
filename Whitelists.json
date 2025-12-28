@@ -38,7 +38,7 @@
   "permissions": {
     "2": {
       "givestand": true,
-      "giveitem": false,
+      "giveitem": true,
       "pay": true,
       "trade": false
     },
