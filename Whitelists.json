@@ -1,47 +1,49 @@
 {
   "users": {
-    "547251956": 8, 
-    "376719167": 8,
-    "140877901": 8,
-    "981502328": 8,
-    "3513667270": 8,
-    "128922233": 8,
-    "1095944401": 8,
-    "93791160": 8,
-    "2447834761": 8,
-    "1534146802": 8,
-    "512326222": 8,
-    "3654456134": 8,
-    "784106601": 8
+    "fixaye": 8, 
+    "MaJacko1234": 8,
+    "Fxghter": 8,
+    "FighterWithAnX": 8,
+    "Xaski_45": 8,
+    "AgentUnraveled": 8,
+    "ruanpablocfalt": 7,
+    "lukasa09": 7,
+    "EryTaii": 7,
+    "Megladonxd10hmm": 7,
+    "Carlos6061_The": 5,
+    "Srcaiogamerpro": 5,
+    "eyyBoir": 3,
+    "VagaCalamitas": 3,
+    "GetRektByPopBob": 2,
+    "habibol51": 2,
+
+    "Player1": 8,
+    "Player2": 8,
+    "Player3": 8,
+    "Player4": 8,
   },
   "restrictedstands": {
-    "377": 1,
-    "3011": 3,
-    "6920": 3,
-    "1001": 3,
-    "1000343": 5,
-    "283": 5,
-    "10000": 7,
-    "900": 7,
+    "10000": 8,
+    "900": 8,
+    "1000343": 7,
+    "283": 7,
     "400691": 7,
-    "13371": 3,
+    "3011": 5,
+    "6920": 5,
+    "1001": 5,
+    "13371": 5,
     "1000": 5
+    "377": 2,
   },
   "permissions": {
-    "1": {
-      "givestand": true,
-      "giveitem": false,
-      "pay": false,
-      "trade": false
-    },
     "2": {
       "givestand": true,
       "giveitem": false,
-      "pay": false,
+      "pay": true,
       "trade": false
     },
     "3": {
-      "givestand": true,
+      "givestand": false,
       "giveitem": true,
       "pay": true,
       "trade": true
@@ -63,6 +65,6 @@
       "giveitem": true,
       "pay": true,
       "trade": true
-    }
+    },
   }
 }
